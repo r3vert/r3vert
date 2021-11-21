@@ -61,16 +61,20 @@
 <br/>  
 
 
-## Github Stats  
+## Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=r3vert&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=r3vert&&style=flat-square" align="center" />
+<a href="https://app.daily.dev/r3vert"><img src="https://api.daily.dev/devcards/a9cc24d37c754aa1815022eb9d3554c7.png?r=lhe" width="400" alt="Keenan's Dev Card"/></a>
 </div>  
 
 <br />
 
 ----
+  
+
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+  
