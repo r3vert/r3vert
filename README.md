@@ -67,7 +67,7 @@
 <br/>  
 
 <div align="center">
-<a href="https://app.daily.dev/r3vert"><img src="https://github.com/r3vert/r3vert/blob/master/devcard.svg" width="400" alt="r3vert's Dev Card"/></a>
+<a href="https://app.daily.dev/r3vert"><img src="https://github.com/r3vert/r3vert/blob/main/devcard.svg" width="400" alt="r3vert's Dev Card"/></a>
 </div>  
 
 <br />
